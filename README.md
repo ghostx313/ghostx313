@@ -1,23 +1,149 @@
-# 💫 About Me:
-’m a 17-year-old with a relentless curiosity for cybersecurity, programming, and reverse engineering. My journey into tech started with a simple question: “How does this actually work?” That question quickly evolved into countless hours of breaking things apart—whether it’s software, malware samples, or code—just to understand the inner logic and hidden mechanisms that make it all function.<br><br>⚡ My Focus Areas<br><br>I’m especially interested in:<br><br>Malware Analysis – Studying how malicious code behaves, experimenting in controlled environments, and understanding the techniques attackers use to evade detection.<br><br>Reverse Engineering (RE) – Taking apart binaries, analyzing low-level instructions, and uncovering the logic that lies beneath compiled programs.<br><br>Programming – Writing my own tools, scripts, and experiments to better understand security concepts, automate tasks, or replicate attack/defense techniques.<br><br>Cybersecurity Fundamentals – Exploring everything from operating system internals to network security, because I believe the strongest foundation comes from understanding technology at its core.<br><br>🔍 My Mindset<br><br>I see cybersecurity as a never-ending puzzle. Every exploit, every piece of malware, every vulnerability tells a story—and I love piecing together those stories. For me, learning is not limited to textbooks or tutorials; it’s hands-on, messy, and often trial-and-error. I’ll spend hours chasing down a bug or analyzing assembly code not just because I want the answer, but because I love the process of discovery.<br><br>I’m not satisfied with surface-level knowledge. I want to understand why something works, how it was built, and what happens when it breaks. That mindset is what drives me deeper into the world of cybersec and keeps me motivated to keep pushing boundaries.<br><br>##🔧 What I Do in My Free Time<br><br>When I’m not studying or working on projects, I’m usually:<br><br>Breaking down malware samples in a lab environment.<br><br>Writing code (in languages like Python, C/C++, and others) to build small tools or explore concepts.<br><br>Practicing reverse engineering challenges, CTFs, or experimenting with disassemblers/debuggers.<br><br>Reading about new vulnerabilities, exploits, and techniques in the security world.<br><br>Diving into technical blogs, research papers, and security write-ups to stay up to date with trends.<br><br>🚀 My Future Goals<br><br>I know that I’m still early in my journey, but I’m committed to turning this passion into a long-term career. My ultimate goals are to:<br><br>Develop advanced skills in malware research and reverse engineering.<br><br>Contribute to the cybersecurity community by sharing knowledge, tools, and research.<br><br>Work on projects that make a real difference in protecting systems and people from cyber threats.<br><br>Never stop learning, because in tech—and especially in cybersecurity—there’s always something new to explore.<br><br>🌐 What Drives Me<br><br>At the end of the day, tech isn’t just a hobby for me—it’s a lifestyle. I enjoy the challenge of cybersecurity because it’s one of the few fields where curiosity is not just encouraged, it’s required. The digital world is constantly evolving, and with it, the threats evolve too. To me, that’s exciting. It means there’s always another problem to solve, another system to understand, and another mystery to uncover.
+<!-- MasterHead -->
+<a href="https://github.com/ghostx313/blob/main/assets/Gifs/mario_V1.gif">
+  <img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V1.gif" alt="Mario GIF" />
+</a>
+
+
+<!-- Greeting -->
+
+<h1 align="center">Greetings 🙏 I'm Astra</h1>
+
+<h4 align="left">
+  🌟 I'm a self taught programmer  exploring both malware development and web-pentedting  
+  Currently diving deep into python, cpp, c, .Net, and logos.  
+  My journey is fueled by curiosity, late-night code sessions, and a drive to master the full stack.
+</h4>
+
+
+
+ <div align="center">
+
+  <!-- Profile Views -->
+  <a href="https://github.com/HumanGp" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=HumanGp&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white"
+         alt="Profile Views Badge" />
+  </a>
+
+  <!-- Total Stars -->
+  <a href="https://github.com/ghostx313?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub"
+         src="https://img.shields.io/github/stars/ghostx313?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+  </a>
+
+  <!-- Followers -->
+  <a href="https://github.com/ghostx313?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub"
+         src="https://img.shields.io/github/followers/ghostx313?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+  </a>
+
+</div>
+
+
+    
+<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
+<img align="right" alt="coding-gif" width="450" src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/mario_V2.gif">
+
+
+<!-- about me -->
+ <h3 align="left">💫 About Me</h3>
+
+
+
+<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align="left">-->
+<h4> 
+  🌱 I’m currently focused on sharpening my skills </br>
+  🔭 I've worked with the .NET Framework and have hands-on experience with Tools used for malware analysis and ethical hacking.</br>
+  💬 I’m proficient in programming languages like python and c , and I'm exploring cpp.</br>
+  ⚡ I’m deeply interested in malware development, ctfs, pentesting, Automation of tools development for ethical hacking .</br>
+  ✨ I have a strong eye for pentesting and also networking fundamentals.</h4>
+ <div align="left"> 
+
+
+  <h3>🧲 Connect me :</h3>
+<a href="mailto: astraghost997@gmail.com">
+  <img width="60px" src="https://play-lh.googleusercontent.com/MaRCSacmqLlbSST5m_sJUb_tE9pTresHYgwpd4gInpcj_NVGbjLCnTe96Yx5zz893bA=w480-h960" alt="Gmail" /></a> 
+  
+ 
+  
+  <a href="https://x.com/astr84517" target="_blank">
+    <img width="60px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/64/a8/f0/64a8f040-e207-e01a-f2e3-2e5d75c68447/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/350x350.png?" alt="Portfolio Badge"></a>
+    
+
+  
+  <!--<a href="https://HumanGp.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
+-->
+</div></h4>
+
+</div>
+<br/>
 
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghostx313&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ghostx313&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghostx313&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=ghostx313&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghostx313&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ghostx313&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/><br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ghostx313&icon=8&color=1)](https://visitcount.itsvg.in)
 
+
+<!-- lang-->
+<h3 align="center">📚 Languages & tools I Have placed My Hands On </h3>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,neovim,cpp,powershell,c,,terminal" /><br>
+    <img src="https://skillicons.dev/icons?i=zed,vscode,github,git,obsidian" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,kali,ubuntu,python,cpp,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,vim,debian,neovim" /><br>
+</div>
+
+<br/>
+
+
+
+
+
+
+  
+  <h3>💻 Tech Stack:</h3>
+     <br/>
+  <div align="center">
+  <!-- Fixed & Corrected Shields.io Badges -->
+  <img src="https://img.shields.io/badge/cpp-20232A?style=for-the-badge&logo=cpp&logoColor=61DAFB" alt="cpp" />
+  <img src="https://img.shields.io/badge/c-3178C6?style=for-the-badge&logo=c&logoColor=white" alt="c" />
+  <img src="https://img.shields.io/badge/python-F7DF1E?style=for-the-badge&logo=python&logoColor=black" alt="python" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
+  
+</div>
+
+  <div align="center"> 
+  </div>
+
+
+
+<!--<h3>⭐ Top Contributed Repo!</h3>
+       <br/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <br/>-->
+
+
+<!-- ending-->
+<a href="">
+<img src="https://raw.githubusercontent.com/HumanGp/HumanGp/main/assets/Gifs/js_flow_V1.gif" alt="JavaScript Factory GIF" style="width:auto; height:auto"/>
+</a>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+
+<p>⚠️ This README is uniquely designed by <strong>Astra via Humangpt</strong>.
 
