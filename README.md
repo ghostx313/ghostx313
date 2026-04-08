@@ -104,9 +104,9 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,neovim,cpp,powershell,c,,terminal" /><br>
-    <img src="https://skillicons.dev/icons?i=zed,vscode,github,git,obsidian" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,kali,ubuntu,python,cpp,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cs,vim,debian,neovim" /><br>
+    <img src="https://skillicons.dev/icons?i=Zed,vscode,github,git,obsidian" /><br>
+    <img src="https://skillicons.dev/icons?i=bash,kali,ubuntu,python,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=vim,debian,neovim" /><br>
 </div>
 
 <br/>
